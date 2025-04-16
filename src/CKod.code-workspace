@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/CKod"
+		},
+		{
+			"name": "ESP32_Bluetooth_Van_Control",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
+}
