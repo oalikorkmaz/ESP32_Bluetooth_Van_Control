@@ -15,8 +15,11 @@ Mobil uygulama **MIT App Inventor** platformunda geliştirilmiştir. Uygulama:
 
 ### 🔧 Uygulama Arayüzü
 
-<img src="./1.jpg" alt="MIT App Inventor" width="250"/>
-<img src="./2.jpg" alt="MIT App Inventor" width="250"/>
+<div style="display: flex; gap: 10px;">
+  <img src="./1.jpg" alt="MIT App Inventor 1" width="250"/>
+  <img src="./2.jpg" alt="MIT App Inventor 2" width="250"/>
+</div>
+
 
 ### 🔧 Blok Kod Yapısı
 
